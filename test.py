@@ -4,4 +4,4 @@ a2 = int(input())
 a3 = int(input())
 b1 = a1 + a2
 b2 = b1 / a3
-print("%.2f" % b1)
+print("%.2f" % b2)
